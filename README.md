@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there!
+My name is KittKat, pronouns they/them
+I am currently Compter Science student at App State University.
+
+- 🔭 I’m currently working on: School, and learning cool stuff
+- 🌱 I’m currently learning: LC3 and C
+- ⚡ Fun fact: I am also maybe a cat...
 
 <!--
 **KittKat7/KittKat7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
